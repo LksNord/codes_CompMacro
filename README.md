@@ -1,4 +1,4 @@
-# Sample Codes for the Course "Computations and Quantitative Models in Macro" by Alex Monge @EUI Florence
+# Sample Codes for the Course "Computations and Quantitative Models in Macro" by Alex Monge at the EUI, Florence
 
 This repository provides some sample codes to accompany Alex Monge's EUI course on Computational Models in Macro in the academic year 2021/22.
 
