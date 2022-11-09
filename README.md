@@ -6,7 +6,7 @@ The folder "codes_Aiyagari" finds the steady state in a standard Aiyagari model 
 
 The folder "codes_transition" solves for the transitional dynamics of an Aiyagari economy by applying the extended path algortihm.
 
-The folder "codes_SSJ" compares the extended path algortihm to the sequence state Jacobian method of solving transitional dynamics.
+The folder "codes_SSJ" compares the extended path algortihm to the sequence space Jacobian method of solving transitional dynamics.
 
 The codes are meant to illustrate solution methods as easily accessible as possible and are not necessarily optimized for maximum speed. Suggestions to further improve the codes are very welcome.
 
